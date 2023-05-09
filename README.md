@@ -1,15 +1,14 @@
 ### Hi there, my name is Colin 👋
 
 <!-- --- About Me --- -->
-I'm currently working as a Mobile developer intern on the Shopify's Buyers Experience team & pursuing my B.C.S Honours at Carleton University as part of the [Dev Degree](https://devdegree.ca/) program. I love learning new languages and playing sports on my free time ⚽️ 🏀 🏃🏾‍♂️
+I completed my B.C.S Honours at Carleton University as part of the [Dev Degree](https://devdegree.ca/) program and previosly worked at Shopify as an application secuirty engineer. I love learning new languages and playing sports on my free time ⚽️ 🏀 🏃🏾‍♂️
 ### About Me ###
 
-<!-- - 🔭 I’m currently working on VideoBin (Shopify internal app)-->
 - 🌱 I’m currently learning Ruby on rails, Python Django & React 
 - 👯 I’m looking to collaborate on anything and everything 😀
 - 🤔 I’m looking for help with taking my personal projects into live production(Heroku?, FireBase? , Docker? 🤷🏾‍♂️)
 - 💬 Ask me about Soccer!!!⚽️
-- 📫 How to reach me: colin.lochalamoi@shopify.com(Work) || lochalamoicolin83@gmail.com(Personal)
+- 📫 How to reach me: lochalamoicolin83@gmail.com(Personal)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I know how to solve a rubkis cube under a minute 🧩
 
